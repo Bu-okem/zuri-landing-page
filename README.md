@@ -1,1 +1,1 @@
-# zuri-landing-page
+# Zuri Landing Page
